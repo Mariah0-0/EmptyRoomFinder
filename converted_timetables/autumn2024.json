@@ -1,0 +1,7961 @@
+[
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "monday",
+        "start": "16:30",
+        "end": "18:30",
+        "locations": [
+            "0.17"
+        ],
+        "instructors": [
+            "kamarudin, k"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "wednesday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "4.46",
+            "4.47"
+        ],
+        "instructors": [
+            "kamarudin, k"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "wednesday",
+        "start": "12:30",
+        "end": "14:30",
+        "locations": [
+            "0.17"
+        ],
+        "instructors": [
+            "kamarudin, k"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "monday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "5.12"
+        ],
+        "instructors": [
+            "ghani, y"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "tuesday",
+        "start": "09:30",
+        "end": "11:30",
+        "locations": [
+            "4.50"
+        ],
+        "instructors": [
+            "yasir, m"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "tuesday",
+        "start": "12:30",
+        "end": "14:30",
+        "locations": [
+            "5.12"
+        ],
+        "instructors": [
+            "yasir, m"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "tuesday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "3.45"
+        ],
+        "instructors": [
+            "kaur, a"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "tuesday",
+        "start": "15:30",
+        "end": "17:30",
+        "locations": [
+            "4.52"
+        ],
+        "instructors": [
+            "kamarudin, k"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "wednesday",
+        "start": "09:30",
+        "end": "11:30",
+        "locations": [
+            "6.39"
+        ],
+        "instructors": [
+            "izza, f"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "wednesday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "4.45"
+        ],
+        "instructors": [
+            "ghani, y"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "wednesday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "5.18"
+        ],
+        "instructors": [
+            "kaur, a"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "thursday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "4.52"
+        ],
+        "instructors": [
+            "ghani, y"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "thursday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "6.38"
+        ],
+        "instructors": [
+            "kaur, a"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "friday",
+        "start": "08:30",
+        "end": "10:30",
+        "locations": [
+            "4.50"
+        ],
+        "instructors": [
+            "izza, f"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "friday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "4.46",
+            "4.47"
+        ],
+        "instructors": [
+            "izza, f"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "friday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "3.48"
+        ],
+        "instructors": [
+            "yasir, m"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "friday",
+        "start": "16:30",
+        "end": "18:30",
+        "locations": [
+            "3.48"
+        ],
+        "instructors": [
+            "yasir, m"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "thursday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "3.44"
+        ],
+        "instructors": [
+            "mekonnen, m"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "monday",
+        "start": "08:30",
+        "end": "10:30",
+        "locations": [
+            "5.10"
+        ],
+        "instructors": [
+            "ghani, y"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "wednesday",
+        "start": "12:30",
+        "end": "14:30",
+        "locations": [
+            "4.45"
+        ],
+        "instructors": [
+            "ghani, y"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "tuesday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "4.42"
+        ],
+        "instructors": [
+            "mekonnen, m"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "thursday",
+        "start": "08:30",
+        "end": "10:30",
+        "locations": [
+            "4.42"
+        ],
+        "instructors": [
+            "bansal, y"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "thursday",
+        "start": "12:30",
+        "end": "14:30",
+        "locations": [
+            "4.42"
+        ],
+        "instructors": [
+            "mekonnen, m"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "monday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "5.13",
+            "5.14"
+        ],
+        "instructors": [
+            "mekonnen, m"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "friday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "6.34",
+            "6.35"
+        ],
+        "instructors": [
+            "gupta, n"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "thursday",
+        "start": "12:30",
+        "end": "14:30",
+        "locations": [
+            "4.45"
+        ],
+        "instructors": [
+            "bansal, y"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "thursday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "4.45"
+        ],
+        "instructors": [
+            "bansal, y"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "monday",
+        "start": "12:30",
+        "end": "14:30",
+        "locations": [
+            "5.19"
+        ],
+        "instructors": [
+            "freywat, k"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "wednesday",
+        "start": "08:30",
+        "end": "10:30",
+        "locations": [
+            "5.10"
+        ],
+        "instructors": [
+            "freywat, k"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "monday",
+        "start": "16:30",
+        "end": "18:30",
+        "locations": [
+            "4.51"
+        ],
+        "instructors": [
+            "sobkey, n"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "tuesday",
+        "start": "08:30",
+        "end": "10:30",
+        "locations": [
+            "6.33"
+        ],
+        "instructors": [
+            "sobkey, n"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "monday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "4.44"
+        ],
+        "instructors": [
+            "hamza, f"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "monday",
+        "start": "12:30",
+        "end": "14:30",
+        "locations": [
+            "5.12"
+        ],
+        "instructors": [
+            "charkaoui, d"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "tuesday",
+        "start": "08:30",
+        "end": "10:30",
+        "locations": [
+            "6.38"
+        ],
+        "instructors": [
+            "charkaoui, d"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "wednesday",
+        "start": "09:30",
+        "end": "11:30",
+        "locations": [
+            "4.50"
+        ],
+        "instructors": [
+            "charkaoui, d"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "wednesday",
+        "start": "12:30",
+        "end": "14:30",
+        "locations": [
+            "5.11"
+        ],
+        "instructors": [
+            "charkaoui, d"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "thursday",
+        "start": "12:30",
+        "end": "14:30",
+        "locations": [
+            "4.46",
+            "4.47"
+        ],
+        "instructors": [
+            "&charkaoui, d"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "friday",
+        "start": "08:30",
+        "end": "10:30",
+        "locations": [
+            "5.19"
+        ],
+        "instructors": [
+            "charkaoui, d"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "friday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "5.19"
+        ],
+        "instructors": [
+            "charkaoui, d"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "monday",
+        "start": "08:30",
+        "end": "10:30",
+        "locations": [
+            "4.46",
+            "4.47"
+        ],
+        "instructors": [
+            "hardt, d"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "monday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "4.46",
+            "4.47"
+        ],
+        "instructors": [
+            "hardt, d"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "monday",
+        "start": "13:30",
+        "end": "15:30",
+        "locations": [
+            "3.42"
+        ],
+        "instructors": [
+            "khaja, h"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "monday",
+        "start": "16:30",
+        "end": "18:30",
+        "locations": [
+            "5.12"
+        ],
+        "instructors": [
+            "khaja, h"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "tuesday",
+        "start": "08:30",
+        "end": "10:30",
+        "locations": [
+            "3.45"
+        ],
+        "instructors": [
+            "chabook, n"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "tuesday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "3.45"
+        ],
+        "instructors": [
+            "chabook, n"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "wednesday",
+        "start": "08:30",
+        "end": "10:30",
+        "locations": [
+            "4.45"
+        ],
+        "instructors": [
+            "khaja, h"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "tuesday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "5.13",
+            "5.14"
+        ],
+        "instructors": [
+            "mallory, m"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "tuesday",
+        "start": "16:30",
+        "end": "18:30",
+        "locations": [
+            "5.13",
+            "5.14"
+        ],
+        "instructors": [
+            "mallory, m"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "monday",
+        "start": "13:30",
+        "end": "15:30",
+        "locations": [
+            "3.45"
+        ],
+        "instructors": [
+            "nassif, r"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "tuesday",
+        "start": "12:30",
+        "end": "14:30",
+        "locations": [
+            "5.15"
+        ],
+        "instructors": [
+            "nassif, r"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "wednesday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "3.48"
+        ],
+        "instructors": [
+            "hamdan, l"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "wednesday",
+        "start": "16:30",
+        "end": "18:30",
+        "locations": [
+            "6.38"
+        ],
+        "instructors": [
+            "nassif, r"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "thursday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "4.52"
+        ],
+        "instructors": [
+            "hamdan, l"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "thursday",
+        "start": "12:30",
+        "end": "14:30",
+        "locations": [
+            "4.52"
+        ],
+        "instructors": [
+            "hamdan, l"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "monday",
+        "start": "13:30",
+        "end": "15:30",
+        "locations": [
+            "6.32"
+        ],
+        "instructors": [
+            "anderson, a"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "monday",
+        "start": "15:30",
+        "end": "17:30",
+        "locations": [
+            "6.32"
+        ],
+        "instructors": [
+            "anderson, a"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "wednesday",
+        "start": "12:30",
+        "end": "14:30",
+        "locations": [
+            "5.15"
+        ],
+        "instructors": [
+            "chedid, d"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "wednesday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "5.15"
+        ],
+        "instructors": [
+            "chedid, d"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "wednesday",
+        "start": "16:30",
+        "end": "18:30",
+        "locations": [
+            "5.15"
+        ],
+        "instructors": [
+            "chedid, d"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "thursday",
+        "start": "12:30",
+        "end": "14:30",
+        "locations": [
+            "5.15"
+        ],
+        "instructors": [
+            "chedid, d"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "thursday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "5.15"
+        ],
+        "instructors": [
+            "chedid, d"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "monday",
+        "start": "08:30",
+        "end": "10:30",
+        "locations": [
+            "4.52"
+        ],
+        "instructors": [
+            "yusoff, n"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "tuesday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "3.42"
+        ],
+        "instructors": []
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "tuesday",
+        "start": "13:30",
+        "end": "15:30",
+        "locations": [
+            "6.30"
+        ],
+        "instructors": []
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "tuesday",
+        "start": "16:30",
+        "end": "18:30",
+        "locations": [
+            "4.44"
+        ],
+        "instructors": [
+            "yusoff, n"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "tuesday",
+        "start": "08:30",
+        "end": "10:30",
+        "locations": [
+            "4.48"
+        ],
+        "instructors": [
+            "nassif, r"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "wednesday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "6.38"
+        ],
+        "instructors": [
+            "nassif, r"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "wednesday",
+        "start": "16:30",
+        "end": "18:30",
+        "locations": [
+            "6.34",
+            "6.35"
+        ],
+        "instructors": [
+            "hardt, d"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "thursday",
+        "start": "12:30",
+        "end": "14:30",
+        "locations": [
+            "5.11"
+        ],
+        "instructors": [
+            "hardt, d"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "monday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "4.50"
+        ],
+        "instructors": [
+            "khaja, h"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "wednesday",
+        "start": "11:30",
+        "end": "13:30",
+        "locations": [
+            "3.45"
+        ],
+        "instructors": [
+            "khaja, h"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "wednesday",
+        "start": "15:30",
+        "end": "17:30",
+        "locations": [
+            "4.48"
+        ],
+        "instructors": [
+            "khaja, h"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "thursday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "3.42"
+        ],
+        "instructors": [
+            "chabook, n"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "friday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "4.52"
+        ],
+        "instructors": [
+            "chabook, n"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "wednesday",
+        "start": "12:30",
+        "end": "14:30",
+        "locations": [
+            "5.13",
+            "5.14"
+        ],
+        "instructors": [
+            "mallory, m"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "thursday",
+        "start": "12:30",
+        "end": "14:30",
+        "locations": [
+            "3.42"
+        ],
+        "instructors": [
+            "chabook, n"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "friday",
+        "start": "08:30",
+        "end": "10:30",
+        "locations": [
+            "4.52"
+        ],
+        "instructors": [
+            "chabook, n"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "tuesday",
+        "start": "12:30",
+        "end": "14:30",
+        "locations": [
+            "5.19"
+        ],
+        "instructors": [
+            "anderson, a"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "monday",
+        "start": "16:30",
+        "end": "18:30",
+        "locations": [
+            "6.30"
+        ],
+        "instructors": [
+            "nassif, r"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "tuesday",
+        "start": "12:30",
+        "end": "14:30",
+        "locations": [
+            "3.44"
+        ],
+        "instructors": [
+            "gupta, n"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "tuesday",
+        "start": "12:30",
+        "end": "14:30",
+        "locations": [
+            "5.11"
+        ],
+        "instructors": [
+            "kaur, a"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "tuesday",
+        "start": "12:30",
+        "end": "14:30",
+        "locations": [
+            "0.17"
+        ],
+        "instructors": [
+            "khallouk, m"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "tuesday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "5.12"
+        ],
+        "instructors": [
+            "kirplani, n"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "tuesday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "3.42"
+        ],
+        "instructors": [
+            "sharma, v"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "tuesday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "4.45"
+        ],
+        "instructors": [
+            "tchantchane, n"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "friday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "4.50"
+        ],
+        "instructors": [
+            "kirplani, n"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "friday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "3.44"
+        ],
+        "instructors": [
+            "sharma, v"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "friday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "6.39"
+        ],
+        "instructors": [
+            "tchantchane, n"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "friday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "5.18"
+        ],
+        "instructors": [
+            "kirplani, n"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "friday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "4.50"
+        ],
+        "instructors": [
+            "sharma, v"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "friday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "5.19"
+        ],
+        "instructors": [
+            "tchantchane, n"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "wednesday",
+        "start": "16:30",
+        "end": "18:30",
+        "locations": [
+            "0.17"
+        ],
+        "instructors": [
+            "lasrado, f"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "thursday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "0.17"
+        ],
+        "instructors": [
+            "lasrado, f"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "wednesday",
+        "start": "08:30",
+        "end": "10:30",
+        "locations": [
+            "5.18"
+        ],
+        "instructors": [
+            "elsaid, s"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "wednesday",
+        "start": "11:30",
+        "end": "13:30",
+        "locations": [
+            "4.50"
+        ],
+        "instructors": [
+            "lasrado, f"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "wednesday",
+        "start": "12:30",
+        "end": "14:30",
+        "locations": [
+            "6.38"
+        ],
+        "instructors": [
+            "elsaid, s"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "wednesday",
+        "start": "13:30",
+        "end": "15:30",
+        "locations": [
+            "4.50"
+        ],
+        "instructors": [
+            "lasrado, f"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "thursday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "5.10"
+        ],
+        "instructors": [
+            "elsaid, s"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "thursday",
+        "start": "12:30",
+        "end": "14:30",
+        "locations": [
+            "5.17"
+        ],
+        "instructors": [
+            "baghestani, m"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "thursday",
+        "start": "13:30",
+        "end": "15:30",
+        "locations": [
+            "6.30"
+        ],
+        "instructors": [
+            "elsaid, s"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "thursday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "5.17"
+        ],
+        "instructors": [
+            "baghestani, m"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "friday",
+        "start": "08:30",
+        "end": "10:30",
+        "locations": [
+            "3.45"
+        ],
+        "instructors": []
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "friday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "5.13",
+            "5.14"
+        ],
+        "instructors": [
+            "baghestani, m"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "friday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "3.45"
+        ],
+        "instructors": []
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "tuesday",
+        "start": "12:30",
+        "end": "14:30",
+        "locations": [
+            "4.46",
+            "4.47"
+        ],
+        "instructors": [
+            "saleem, k"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "tuesday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "5.11"
+        ],
+        "instructors": [
+            "wang, z"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "wednesday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "5.11"
+        ],
+        "instructors": [
+            "wang, z"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "monday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "4.52"
+        ],
+        "instructors": [
+            "kirplani, n"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "monday",
+        "start": "16:30",
+        "end": "18:30",
+        "locations": [
+            "6.39"
+        ],
+        "instructors": [
+            "kirplani, n"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "tuesday",
+        "start": "08:30",
+        "end": "10:30",
+        "locations": [
+            "5.10"
+        ],
+        "instructors": [
+            "gambhir, b"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "tuesday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "5.12"
+        ],
+        "instructors": [
+            "kirplani, n"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "tuesday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "5.11"
+        ],
+        "instructors": [
+            "tchantchane, n"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "wednesday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "4.45"
+        ],
+        "instructors": []
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "wednesday",
+        "start": "12:30",
+        "end": "14:30",
+        "locations": [
+            "4.52"
+        ],
+        "instructors": [
+            "gambhir, b"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "wednesday",
+        "start": "13:30",
+        "end": "15:30",
+        "locations": [
+            "6.39"
+        ],
+        "instructors": [
+            "tchantchane, n"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "thursday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "5.17"
+        ],
+        "instructors": [
+            "gambhir, b"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "thursday",
+        "start": "12:30",
+        "end": "14:30",
+        "locations": [
+            "3.45"
+        ],
+        "instructors": [
+            "gambhir, b"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "thursday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "5.12"
+        ],
+        "instructors": []
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "monday",
+        "start": "16:30",
+        "end": "18:30",
+        "locations": [
+            "4.46",
+            "4.47"
+        ],
+        "instructors": [
+            "maity, m"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "tuesday",
+        "start": "16:30",
+        "end": "18:30",
+        "locations": [
+            "5.10"
+        ],
+        "instructors": [
+            "maity, m"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "wednesday",
+        "start": "12:30",
+        "end": "14:30",
+        "locations": [
+            "3.48"
+        ],
+        "instructors": [
+            "al-helo, s"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "wednesday",
+        "start": "15:30",
+        "end": "17:30",
+        "locations": [
+            "6.33"
+        ],
+        "instructors": []
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "monday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "5.11"
+        ],
+        "instructors": [
+            "cho, j"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "monday",
+        "start": "16:30",
+        "end": "18:30",
+        "locations": [
+            "5.11"
+        ],
+        "instructors": [
+            "cho, j"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "monday",
+        "start": "16:30",
+        "end": "18:30",
+        "locations": [
+            "4.45"
+        ],
+        "instructors": [
+            "al-helo, s"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "monday",
+        "start": "16:30",
+        "end": "18:30",
+        "locations": [
+            "4.48"
+        ],
+        "instructors": [
+            "khurshid, s."
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "monday",
+        "start": "16:30",
+        "end": "18:30",
+        "locations": [
+            "6.34",
+            "6.35"
+        ],
+        "instructors": [
+            "baghestani, m"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "wednesday",
+        "start": "12:30",
+        "end": "14:30",
+        "locations": [
+            "1.53"
+        ],
+        "instructors": [
+            "mohamed, a"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "wednesday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "1.53"
+        ],
+        "instructors": []
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "monday",
+        "start": "13:30",
+        "end": "16:30",
+        "locations": [
+            "4.46",
+            "4.47"
+        ],
+        "instructors": [
+            "chacha, m"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "monday",
+        "start": "16:30",
+        "end": "18:30",
+        "locations": [
+            "3.45"
+        ],
+        "instructors": [
+            "hasan, a"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "tuesday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "6.38"
+        ],
+        "instructors": [
+            "hasan, a"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "tuesday",
+        "start": "10:30",
+        "end": "13:30",
+        "locations": [
+            "0.20",
+            "0.21"
+        ],
+        "instructors": [
+            "jaafar, k"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "thursday",
+        "start": "12:30",
+        "end": "14:30",
+        "locations": [
+            "0.20",
+            "0.21"
+        ],
+        "instructors": [
+            "jaafar, k"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "wednesday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "0.20",
+            "0.21"
+        ],
+        "instructors": [
+            "saidarakath, t"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "thursday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "6.29"
+        ],
+        "instructors": [
+            "amir, s"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "workshop",
+        "day": "wednesday",
+        "start": "12:30",
+        "end": "14:30",
+        "locations": [
+            "0.20",
+            "0.21"
+        ],
+        "instructors": [
+            "amir, s"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "thursday",
+        "start": "08:30",
+        "end": "11:30",
+        "locations": [
+            "0.20",
+            "0.21"
+        ],
+        "instructors": [
+            "alrifai, m"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "monday",
+        "start": "12:30",
+        "end": "15:30",
+        "locations": [
+            "0.20",
+            "0.21"
+        ],
+        "instructors": [
+            "wilkinson, s"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "tuesday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "0.20",
+            "0.21"
+        ],
+        "instructors": [
+            "wilkinson, s"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "thursday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "3.47"
+        ],
+        "instructors": [
+            "nokiti, a"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "friday",
+        "start": "08:30",
+        "end": "10:30",
+        "locations": [
+            "6.36"
+        ],
+        "instructors": [
+            "damankesh, a"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "friday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "6.36"
+        ],
+        "instructors": [
+            "damankesh, a"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "friday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "3.47"
+        ],
+        "instructors": [
+            "nokiti, a"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "friday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "3.52"
+        ],
+        "instructors": [
+            "damankesh, a"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "tuesday",
+        "start": "08:30",
+        "end": "10:30",
+        "locations": [
+            "3.44"
+        ],
+        "instructors": [
+            "oroumchian, f"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "wednesday",
+        "start": "08:30",
+        "end": "10:30",
+        "locations": [
+            "3.44"
+        ],
+        "instructors": [
+            "oroumchian, f"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "monday",
+        "start": "08:30",
+        "end": "10:30",
+        "locations": [
+            "3.52"
+        ],
+        "instructors": [
+            "ullah, o"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "monday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "2.50"
+        ],
+        "instructors": [
+            "aswani, p"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "tuesday",
+        "start": "08:30",
+        "end": "10:30",
+        "locations": [
+            "3.52"
+        ],
+        "instructors": [
+            "aswani, p"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "tuesday",
+        "start": "08:30",
+        "end": "10:30",
+        "locations": [
+            "1.52"
+        ],
+        "instructors": [
+            "ullah, o"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "tuesday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "3.47"
+        ],
+        "instructors": [
+            "faiz, t"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "tuesday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "3.52"
+        ],
+        "instructors": [
+            "aswani, p"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "tuesday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "1.52"
+        ],
+        "instructors": [
+            "ullah, o"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "tuesday",
+        "start": "13:30",
+        "end": "15:30",
+        "locations": [
+            "1.52"
+        ],
+        "instructors": [
+            "aswani, p"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "tuesday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "3.52"
+        ],
+        "instructors": [
+            "damankesh, a"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "tuesday",
+        "start": "15:30",
+        "end": "17:30",
+        "locations": [
+            "1.52"
+        ],
+        "instructors": [
+            "aswani, p"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "tuesday",
+        "start": "16:30",
+        "end": "18:30",
+        "locations": [
+            "3.52"
+        ],
+        "instructors": [
+            "damankesh, a"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "wednesday",
+        "start": "08:30",
+        "end": "10:30",
+        "locations": [
+            "1.52"
+        ],
+        "instructors": [
+            "faiz, t"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "wednesday",
+        "start": "09:30",
+        "end": "11:30",
+        "locations": [
+            "3.52"
+        ],
+        "instructors": [
+            "ullah, o"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "wednesday",
+        "start": "12:30",
+        "end": "14:30",
+        "locations": [
+            "3.52"
+        ],
+        "instructors": [
+            "ullah, o"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "wednesday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "2.50"
+        ],
+        "instructors": [
+            "daoudi, o"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "wednesday",
+        "start": "16:30",
+        "end": "18:30",
+        "locations": [
+            "6.40"
+        ],
+        "instructors": [
+            "ullah, o"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "thursday",
+        "start": "08:30",
+        "end": "10:30",
+        "locations": [
+            "1.52"
+        ],
+        "instructors": [
+            "damankesh, a"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "thursday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "1.52"
+        ],
+        "instructors": [
+            "damankesh, a"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "thursday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "3.52"
+        ],
+        "instructors": [
+            "damankesh, a"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "monday",
+        "start": "12:30",
+        "end": "14:30",
+        "locations": [
+            "3.44"
+        ],
+        "instructors": [
+            "mukala, p"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "wednesday",
+        "start": "12:30",
+        "end": "14:30",
+        "locations": [
+            "6.32"
+        ],
+        "instructors": [
+            "mukala, p"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "tuesday",
+        "start": "12:30",
+        "end": "14:30",
+        "locations": [
+            "6.34",
+            "6.35"
+        ],
+        "instructors": [
+            "oroumchian, f"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "tuesday",
+        "start": "15:30",
+        "end": "17:30",
+        "locations": [
+            "6.32"
+        ],
+        "instructors": [
+            "oroumchian, f"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "wednesday",
+        "start": "12:30",
+        "end": "14:30",
+        "locations": [
+            "3.44"
+        ],
+        "instructors": [
+            "oroumchian, f"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "thursday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "4.44"
+        ],
+        "instructors": [
+            "oroumchian, f"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "thursday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "3.44"
+        ],
+        "instructors": [
+            "oroumchian, f"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "friday",
+        "start": "08:30",
+        "end": "10:30",
+        "locations": [
+            "5.13",
+            "5.14"
+        ],
+        "instructors": [
+            "mukala, p"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "friday",
+        "start": "08:30",
+        "end": "10:30",
+        "locations": [
+            "3.44"
+        ],
+        "instructors": [
+            "oroumchian, f"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "monday",
+        "start": "08:30",
+        "end": "10:30",
+        "locations": [
+            "2.50"
+        ],
+        "instructors": [
+            "aswani, p"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "monday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "4.42"
+        ],
+        "instructors": [
+            "aswani, p"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "thursday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "4.42"
+        ],
+        "instructors": [
+            "aswani, p"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "monday",
+        "start": "16:30",
+        "end": "18:30",
+        "locations": [
+            "3.44"
+        ],
+        "instructors": [
+            "lim, h.c."
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "friday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "4.44"
+        ],
+        "instructors": [
+            "lim, h.c."
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "wednesday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "1.52"
+        ],
+        "instructors": [
+            "sreejith, a"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "wednesday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "3.47"
+        ],
+        "instructors": [
+            "habiba, a"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "wednesday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "6.36"
+        ],
+        "instructors": [
+            "sreejith, a"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "wednesday",
+        "start": "16:30",
+        "end": "18:30",
+        "locations": [
+            "6.36"
+        ],
+        "instructors": [
+            "alagha, n"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "thursday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "6.36"
+        ],
+        "instructors": [
+            "habiba, a"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "friday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "3.47"
+        ],
+        "instructors": [
+            "alagha, n"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "monday",
+        "start": "13:30",
+        "end": "15:30",
+        "locations": [
+            "5.13",
+            "5.14"
+        ],
+        "instructors": [
+            "benkrid, a"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "monday",
+        "start": "15:30",
+        "end": "17:30",
+        "locations": [
+            "5.13",
+            "5.14"
+        ],
+        "instructors": [
+            "benkrid, a"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "workshop",
+        "day": "tuesday",
+        "start": "08:30",
+        "end": "10:30",
+        "locations": [
+            "3.48"
+        ],
+        "instructors": [
+            "afsari, k"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "workshop",
+        "day": "tuesday",
+        "start": "09:30",
+        "end": "11:30",
+        "locations": [
+            "6.39"
+        ],
+        "instructors": [
+            "khouly, a"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "workshop",
+        "day": "tuesday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "3.48"
+        ],
+        "instructors": [
+            "afsari, k"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "workshop",
+        "day": "tuesday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "5.18"
+        ],
+        "instructors": [
+            "khouly, a"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "workshop",
+        "day": "wednesday",
+        "start": "08:30",
+        "end": "10:30",
+        "locations": [
+            "5.17"
+        ],
+        "instructors": [
+            "afsari, k"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "workshop",
+        "day": "wednesday",
+        "start": "08:30",
+        "end": "10:30",
+        "locations": [
+            "6.38"
+        ],
+        "instructors": [
+            "khouly, a"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "thursday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "3.47"
+        ],
+        "instructors": [
+            "lim, h.c."
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "monday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "5.18"
+        ],
+        "instructors": [
+            "lim, h.c."
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "thursday",
+        "start": "11:30",
+        "end": "12:30",
+        "locations": [
+            "6.39"
+        ],
+        "instructors": [
+            "lim, h.c."
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "monday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "3.52"
+        ],
+        "instructors": [
+            "attar, m"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "thursday",
+        "start": "08:30",
+        "end": "10:30",
+        "locations": [
+            "3.52"
+        ],
+        "instructors": [
+            "sallam, s"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "thursday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "6.40"
+        ],
+        "instructors": [
+            "sallam, s"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "friday",
+        "start": "08:30",
+        "end": "10:30",
+        "locations": [
+            "3.52"
+        ],
+        "instructors": [
+            "sallam, s"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "friday",
+        "start": "16:30",
+        "end": "18:30",
+        "locations": [
+            "6.32"
+        ],
+        "instructors": [
+            "attar, m"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "monday",
+        "start": "08:30",
+        "end": "09:30",
+        "locations": [
+            "5.12"
+        ],
+        "instructors": [
+            "attar, m"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "monday",
+        "start": "09:30",
+        "end": "10:30",
+        "locations": [
+            "5.12"
+        ],
+        "instructors": [
+            "attar, m"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "monday",
+        "start": "13:30",
+        "end": "14:30",
+        "locations": [
+            "4.50"
+        ],
+        "instructors": [
+            "attar, m"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "wednesday",
+        "start": "10:30",
+        "end": "11:30",
+        "locations": [
+            "3.42"
+        ],
+        "instructors": [
+            "attar, m"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "thursday",
+        "start": "08:30",
+        "end": "12:30",
+        "locations": [
+            "6.32"
+        ],
+        "instructors": [
+            "afsari, k",
+            "daoudi, o",
+            "barachi, m",
+            "thomas, t"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "thursday",
+        "start": "12:30",
+        "end": "16:30",
+        "locations": [
+            "4.44"
+        ],
+        "instructors": [
+            "afsari, k",
+            "daoudi, o",
+            "barachi, m",
+            "thomas, t"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "friday",
+        "start": "08:30",
+        "end": "12:30",
+        "locations": [
+            "6.32"
+        ],
+        "instructors": [
+            "afsari, k",
+            "daoudi, o",
+            "barachi, m",
+            "thomas, t"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "friday",
+        "start": "14:30",
+        "end": "18:30",
+        "locations": [
+            "4.44"
+        ],
+        "instructors": [
+            "afsari, k",
+            "daoudi, o",
+            "barachi, m",
+            "thomas, t"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "monday",
+        "start": "09:30",
+        "end": "11:30",
+        "locations": [
+            "6.36"
+        ],
+        "instructors": [
+            "thomas, t"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "monday",
+        "start": "11:30",
+        "end": "13:30",
+        "locations": [
+            "3.47"
+        ],
+        "instructors": [
+            "nokiti, a"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "monday",
+        "start": "11:30",
+        "end": "13:30",
+        "locations": [
+            "6.36"
+        ],
+        "instructors": [
+            "bhagwat, p"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "monday",
+        "start": "13:30",
+        "end": "15:30",
+        "locations": [
+            "6.36"
+        ],
+        "instructors": [
+            "bhagwat, p"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "monday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "2.50"
+        ],
+        "instructors": [
+            "thomas, t"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "monday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "3.52"
+        ],
+        "instructors": [
+            "dagou, s"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "tuesday",
+        "start": "11:30",
+        "end": "13:30",
+        "locations": [
+            "2.50"
+        ],
+        "instructors": [
+            "dagou, s"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "tuesday",
+        "start": "13:30",
+        "end": "15:30",
+        "locations": [
+            "2.50"
+        ],
+        "instructors": [
+            "dagou, s"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "wednesday",
+        "start": "12:30",
+        "end": "14:30",
+        "locations": [
+            "2.50"
+        ],
+        "instructors": [
+            "nokiti, a"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "wednesday",
+        "start": "12:30",
+        "end": "14:30",
+        "locations": [
+            "6.36"
+        ],
+        "instructors": [
+            "mathew, s"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "wednesday",
+        "start": "12:30",
+        "end": "14:30",
+        "locations": [
+            "1.52"
+        ],
+        "instructors": [
+            "thomas, t"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "wednesday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "1.52"
+        ],
+        "instructors": [
+            "dagou, s"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "thursday",
+        "start": "08:30",
+        "end": "10:30",
+        "locations": [
+            "6.40"
+        ],
+        "instructors": [
+            "bhagwat, p"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "thursday",
+        "start": "12:30",
+        "end": "14:30",
+        "locations": [
+            "6.40"
+        ],
+        "instructors": [
+            "tsaramirsis, g"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "thursday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "3.47"
+        ],
+        "instructors": [
+            "bhagwat, p"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "friday",
+        "start": "16:30",
+        "end": "18:30",
+        "locations": [
+            "3.47"
+        ],
+        "instructors": [
+            "nokiti, a"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "monday",
+        "start": "08:30",
+        "end": "11:30",
+        "locations": [
+            "5.11"
+        ],
+        "instructors": [
+            "mathew, s"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "tuesday",
+        "start": "08:30",
+        "end": "11:30",
+        "locations": [
+            "6.32"
+        ],
+        "instructors": [
+            "mathew, s"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "wednesday",
+        "start": "08:30",
+        "end": "11:30",
+        "locations": [
+            "5.11"
+        ],
+        "instructors": [
+            "mathew, s"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "thursday",
+        "start": "08:30",
+        "end": "11:30",
+        "locations": [
+            "5.11"
+        ],
+        "instructors": [
+            "tsaramirsis, g"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "monday",
+        "start": "12:30",
+        "end": "14:30",
+        "locations": [
+            "2.50"
+        ],
+        "instructors": [
+            "majeed, s"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "monday",
+        "start": "12:30",
+        "end": "14:30",
+        "locations": [
+            "6.40"
+        ],
+        "instructors": [
+            "daoudi, o"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "monday",
+        "start": "15:30",
+        "end": "17:30",
+        "locations": [
+            "3.47"
+        ],
+        "instructors": [
+            "majeed, s"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "monday",
+        "start": "15:30",
+        "end": "17:30",
+        "locations": [
+            "6.36"
+        ],
+        "instructors": [
+            "bhagwat, p"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "monday",
+        "start": "15:30",
+        "end": "17:30",
+        "locations": [
+            "1.52"
+        ],
+        "instructors": [
+            "daoudi, o"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "tuesday",
+        "start": "11:30",
+        "end": "13:30",
+        "locations": [
+            "6.36"
+        ],
+        "instructors": [
+            "bhagwat, p"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "tuesday",
+        "start": "13:30",
+        "end": "15:30",
+        "locations": [
+            "6.36"
+        ],
+        "instructors": [
+            "bhagwat, p"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "tuesday",
+        "start": "15:30",
+        "end": "17:30",
+        "locations": [
+            "2.50"
+        ],
+        "instructors": [
+            "majeed, s"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "tuesday",
+        "start": "15:30",
+        "end": "17:30",
+        "locations": [
+            "6.36"
+        ],
+        "instructors": [
+            "bhagwat, p"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "wednesday",
+        "start": "12:30",
+        "end": "14:30",
+        "locations": [
+            "3.47"
+        ],
+        "instructors": [
+            "daoudi, o"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "wednesday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "3.47"
+        ],
+        "instructors": [
+            "bhagwat, p"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "wednesday",
+        "start": "16:30",
+        "end": "18:30",
+        "locations": [
+            "3.52"
+        ],
+        "instructors": [
+            "daoudi, o"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "friday",
+        "start": "08:30",
+        "end": "10:30",
+        "locations": [
+            "1.52"
+        ],
+        "instructors": [
+            "majeed, s"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "friday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "1.52"
+        ],
+        "instructors": [
+            "majeed, s"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "friday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "6.36"
+        ],
+        "instructors": [
+            "majeed, s"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "monday",
+        "start": "08:30",
+        "end": "11:30",
+        "locations": [
+            "6.32"
+        ],
+        "instructors": [
+            "khan, z"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "wednesday",
+        "start": "08:30",
+        "end": "11:30",
+        "locations": [
+            "6.32"
+        ],
+        "instructors": [
+            "yaish, h"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "thursday",
+        "start": "08:30",
+        "end": "11:30",
+        "locations": [
+            "6.34",
+            "6.35"
+        ],
+        "instructors": [
+            "yaish, h"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "thursday",
+        "start": "11:30",
+        "end": "14:30",
+        "locations": [
+            "6.34",
+            "6.35"
+        ],
+        "instructors": [
+            "khan, z"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "tuesday",
+        "start": "08:30",
+        "end": "10:30",
+        "locations": [
+            "5.13",
+            "5.14"
+        ],
+        "instructors": [
+            "kumar, m"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "tuesday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "3.44"
+        ],
+        "instructors": [
+            "yaish, h"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "tuesday",
+        "start": "11:30",
+        "end": "13:30",
+        "locations": [
+            "6.32"
+        ],
+        "instructors": [
+            "kumar, m"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "tuesday",
+        "start": "13:30",
+        "end": "15:30",
+        "locations": [
+            "6.32"
+        ],
+        "instructors": [
+            "yaish, h"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "monday",
+        "start": "11:30",
+        "end": "13:30",
+        "locations": [
+            "3.48"
+        ],
+        "instructors": [
+            "dagou, s"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "monday",
+        "start": "12:30",
+        "end": "14:30",
+        "locations": [
+            "4.52"
+        ],
+        "instructors": [
+            "sah, s"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "monday",
+        "start": "12:30",
+        "end": "14:30",
+        "locations": [
+            "3.46"
+        ],
+        "instructors": [
+            "thomas, t"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "monday",
+        "start": "13:30",
+        "end": "15:30",
+        "locations": [
+            "5.10"
+        ],
+        "instructors": [
+            "faiz, t"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "monday",
+        "start": "15:30",
+        "end": "17:30",
+        "locations": [
+            "5.10"
+        ],
+        "instructors": [
+            "faiz, t"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "monday",
+        "start": "15:30",
+        "end": "17:30",
+        "locations": [
+            "3.42"
+        ],
+        "instructors": [
+            "sah, s"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "tuesday",
+        "start": "13:30",
+        "end": "15:30",
+        "locations": [
+            "6.29"
+        ],
+        "instructors": [
+            "faiz, t"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "tuesday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "5.17"
+        ],
+        "instructors": [
+            "sah, s"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "tuesday",
+        "start": "15:30",
+        "end": "17:30",
+        "locations": [
+            "6.29"
+        ],
+        "instructors": [
+            "faiz, t"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "wednesday",
+        "start": "12:30",
+        "end": "14:30",
+        "locations": [
+            "5.17"
+        ],
+        "instructors": [
+            "sah, s"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "wednesday",
+        "start": "12:30",
+        "end": "14:30",
+        "locations": [
+            "5.18"
+        ],
+        "instructors": [
+            "dagou, s"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "wednesday",
+        "start": "13:30",
+        "end": "15:30",
+        "locations": [
+            "5.12"
+        ],
+        "instructors": [
+            "faiz, t"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "wednesday",
+        "start": "15:30",
+        "end": "17:30",
+        "locations": [
+            "5.12"
+        ],
+        "instructors": [
+            "faiz, t"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "wednesday",
+        "start": "15:30",
+        "end": "17:30",
+        "locations": [
+            "6.33"
+        ],
+        "instructors": [
+            "thomas, t"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "thursday",
+        "start": "12:30",
+        "end": "14:30",
+        "locations": [
+            "5.10"
+        ],
+        "instructors": [
+            "dagou, s"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "thursday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "5.10"
+        ],
+        "instructors": [
+            "dagou, s"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "wednesday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "6.36"
+        ],
+        "instructors": [
+            "sah, s"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "thursday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "2.50"
+        ],
+        "instructors": [
+            "sah, s"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "thursday",
+        "start": "12:30",
+        "end": "14:30",
+        "locations": [
+            "2.50"
+        ],
+        "instructors": [
+            "sah, s"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "monday",
+        "start": "12:30",
+        "end": "14:30",
+        "locations": [
+            "5.11"
+        ],
+        "instructors": [
+            "mathew, s"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "monday",
+        "start": "10:30",
+        "end": "11:30",
+        "locations": [
+            "3.48"
+        ],
+        "instructors": [
+            "sah, s"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "tuesday",
+        "start": "12:30",
+        "end": "13:30",
+        "locations": [
+            "5.17"
+        ],
+        "instructors": [
+            "sah, s"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "tuesday",
+        "start": "13:30",
+        "end": "14:30",
+        "locations": [
+            "5.17"
+        ],
+        "instructors": [
+            "sah, s"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "tuesday",
+        "start": "14:30",
+        "end": "18:30",
+        "locations": [
+            "6.34",
+            "6.35"
+        ],
+        "instructors": [
+            "tsaramirsis, g"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "wednesday",
+        "start": "14:30",
+        "end": "18:30",
+        "locations": [
+            "6.32"
+        ],
+        "instructors": [
+            "barachi, m"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "thursday",
+        "start": "12:30",
+        "end": "16:30",
+        "locations": [
+            "5.19"
+        ],
+        "instructors": [
+            "yaish, h"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "monday",
+        "start": "12:30",
+        "end": "14:30",
+        "locations": [
+            "3.52"
+        ],
+        "instructors": [
+            "sallam, s"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "monday",
+        "start": "16:30",
+        "end": "18:30",
+        "locations": [
+            "3.52"
+        ],
+        "instructors": [
+            "sallam, s"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "thursday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "3.52"
+        ],
+        "instructors": [
+            "sallam, s"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "friday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "3.52"
+        ],
+        "instructors": [
+            "sallam, s"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "friday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "4.46",
+            "4.47"
+        ],
+        "instructors": [
+            "kumar, m"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "monday",
+        "start": "09:30",
+        "end": "10:30",
+        "locations": [
+            "3.48"
+        ],
+        "instructors": [
+            "kumar, m"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "monday",
+        "start": "12:30",
+        "end": "13:30",
+        "locations": [
+            "6.33"
+        ],
+        "instructors": [
+            "kumar, m"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "monday",
+        "start": "14:30",
+        "end": "15:30",
+        "locations": [
+            "3.46"
+        ],
+        "instructors": [
+            "kumar, m"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "tuesday",
+        "start": "13:30",
+        "end": "14:30",
+        "locations": [
+            "4.50"
+        ],
+        "instructors": [
+            "kumar, m"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "tuesday",
+        "start": "12:30",
+        "end": "14:30",
+        "locations": [
+            "4.42"
+        ],
+        "instructors": [
+            "fernandes, s"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "wednesday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "4.42"
+        ],
+        "instructors": [
+            "fernandes, s"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "wednesday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "4.42"
+        ],
+        "instructors": [
+            "saleem, k"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "wednesday",
+        "start": "16:30",
+        "end": "18:30",
+        "locations": [
+            "4.42"
+        ],
+        "instructors": [
+            "fernandes, s"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "thursday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "4.42"
+        ],
+        "instructors": [
+            "filho, c"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "tuesday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "4.44"
+        ],
+        "instructors": [
+            "saleem, k"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "tuesday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "3.46"
+        ],
+        "instructors": [
+            "rana, f"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "tuesday",
+        "start": "12:30",
+        "end": "14:30",
+        "locations": [
+            "3.46"
+        ],
+        "instructors": [
+            "rana, f"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "thursday",
+        "start": "12:30",
+        "end": "14:30",
+        "locations": [
+            "6.39"
+        ],
+        "instructors": [
+            "kaur, a"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "wednesday",
+        "start": "09:30",
+        "end": "12:30",
+        "locations": [
+            "1.38"
+        ],
+        "instructors": [
+            "qureshi, a"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "wednesday",
+        "start": "12:30",
+        "end": "15:30",
+        "locations": [
+            "1.38"
+        ],
+        "instructors": [
+            "qureshi, a"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "thursday",
+        "start": "09:30",
+        "end": "12:30",
+        "locations": [
+            "1.38"
+        ],
+        "instructors": [
+            "george, m"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "thursday",
+        "start": "12:30",
+        "end": "15:30",
+        "locations": [
+            "1.38"
+        ],
+        "instructors": [
+            "qureshi, a"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "friday",
+        "start": "09:30",
+        "end": "12:30",
+        "locations": [
+            "1.38"
+        ],
+        "instructors": [
+            "george, m"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "monday",
+        "start": "11:30",
+        "end": "13:30",
+        "locations": [
+            "6.32"
+        ],
+        "instructors": [
+            "khatib, o"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "monday",
+        "start": "13:30",
+        "end": "15:30",
+        "locations": [
+            "4.48"
+        ],
+        "instructors": [
+            "sahir, s"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "monday",
+        "start": "13:30",
+        "end": "15:30",
+        "locations": [
+            "6.39"
+        ],
+        "instructors": [
+            "khatib, o"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "monday",
+        "start": "16:30",
+        "end": "18:30",
+        "locations": [
+            "6.38"
+        ],
+        "instructors": [
+            "khatib, o"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "tuesday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "5.10"
+        ],
+        "instructors": [
+            "sahir, s"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "tuesday",
+        "start": "14:30",
+        "end": "17:30",
+        "locations": [
+            "1.51"
+        ],
+        "instructors": [
+            "sreejith, a"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "thursday",
+        "start": "08:30",
+        "end": "11:30",
+        "locations": [
+            "1.51"
+        ],
+        "instructors": [
+            "alagha, n"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "thursday",
+        "start": "11:30",
+        "end": "14:30",
+        "locations": [
+            "1.51"
+        ],
+        "instructors": [
+            "alagha, n"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "monday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "6.34",
+            "6.35"
+        ],
+        "instructors": [
+            "nassereddine, m"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "monday",
+        "start": "16:30",
+        "end": "18:30",
+        "locations": [
+            "5.18"
+        ],
+        "instructors": [
+            "nassereddine, m"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "tuesday",
+        "start": "12:30",
+        "end": "14:30",
+        "locations": [
+            "5.10"
+        ],
+        "instructors": [
+            "khouly, a"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "wednesday",
+        "start": "09:30",
+        "end": "11:30",
+        "locations": [
+            "6.34",
+            "6.35"
+        ],
+        "instructors": [
+            "rajamani, h"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "workshop",
+        "day": "wednesday",
+        "start": "11:30",
+        "end": "13:30",
+        "locations": [
+            "6.39"
+        ],
+        "instructors": [
+            "alagha, n"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "workshop",
+        "day": "wednesday",
+        "start": "11:30",
+        "end": "13:30",
+        "locations": [
+            "2.51"
+        ],
+        "instructors": [
+            "afsari, k"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "workshop",
+        "day": "wednesday",
+        "start": "13:30",
+        "end": "15:30",
+        "locations": [
+            "6.34",
+            "6.35"
+        ],
+        "instructors": [
+            "alagha, n"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "workshop",
+        "day": "wednesday",
+        "start": "13:30",
+        "end": "15:30",
+        "locations": [
+            "2.51"
+        ],
+        "instructors": [
+            "afsari, k"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "monday",
+        "start": "10:30",
+        "end": "13:30",
+        "locations": [
+            "1.52"
+        ],
+        "instructors": [
+            "qureshi, a"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "thursday",
+        "start": "08:30",
+        "end": "11:30",
+        "locations": [
+            "6.36"
+        ],
+        "instructors": [
+            "qureshi, a"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "thursday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "6.34",
+            "6.35"
+        ],
+        "instructors": [
+            "malek, m"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "monday",
+        "start": "08:30",
+        "end": "10:30",
+        "locations": [
+            "3.42"
+        ],
+        "instructors": [
+            "malek, m"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "tuesday",
+        "start": "08:30",
+        "end": "10:30",
+        "locations": [
+            "5.17"
+        ],
+        "instructors": [
+            "malek, m"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "tuesday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "6.33"
+        ],
+        "instructors": [
+            "malek, m"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "wednesday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "3.52"
+        ],
+        "instructors": [
+            "khatib, o"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "wednesday",
+        "start": "09:30",
+        "end": "12:30",
+        "locations": [
+            "4.48"
+        ],
+        "instructors": [
+            "khatib, o"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "wednesday",
+        "start": "13:30",
+        "end": "14:30",
+        "locations": [
+            "3.42"
+        ],
+        "instructors": [
+            "khatib, o"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "tuesday",
+        "start": "09:30",
+        "end": "12:30",
+        "locations": [
+            "1.51"
+        ],
+        "instructors": [
+            "nassereddine, m"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "monday",
+        "start": "09:30",
+        "end": "11:30",
+        "locations": [
+            "1.51"
+        ],
+        "instructors": [
+            "nassereddine, m"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "monday",
+        "start": "11:30",
+        "end": "13:30",
+        "locations": [
+            "1.51"
+        ],
+        "instructors": [
+            "nassereddine, m"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "tuesday",
+        "start": "13:30",
+        "end": "15:30",
+        "locations": [
+            "3.47"
+        ],
+        "instructors": [
+            "afsari, k"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "thursday",
+        "start": "09:30",
+        "end": "12:30",
+        "locations": [
+            "3.42"
+        ],
+        "instructors": [
+            "benkrid, a"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "thursday",
+        "start": "12:30",
+        "end": "13:30",
+        "locations": [
+            "3.52"
+        ],
+        "instructors": [
+            "benkrid, a"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "thursday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "5.11"
+        ],
+        "instructors": [
+            "rajamani, h",
+            "sikora, k"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "monday",
+        "start": "09:30",
+        "end": "11:30",
+        "locations": [
+            "1.53"
+        ],
+        "instructors": [
+            "nadeem, n"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "monday",
+        "start": "11:30",
+        "end": "13:30",
+        "locations": [
+            "1.53"
+        ],
+        "instructors": [
+            "nadeem, n"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "monday",
+        "start": "13:30",
+        "end": "15:30",
+        "locations": [
+            "1.53"
+        ],
+        "instructors": [
+            "yousuf, m"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "tuesday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "1.53"
+        ],
+        "instructors": [
+            "yousuf, m"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "tuesday",
+        "start": "12:30",
+        "end": "14:30",
+        "locations": [
+            "1.53"
+        ],
+        "instructors": [
+            "mohamed, a"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "tuesday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "1.53"
+        ],
+        "instructors": [
+            "hasan, a"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "tuesday",
+        "start": "16:30",
+        "end": "18:30",
+        "locations": [
+            "1.53"
+        ],
+        "instructors": [
+            "hasan, a"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "wednesday",
+        "start": "08:30",
+        "end": "10:30",
+        "locations": [
+            "1.53"
+        ],
+        "instructors": [
+            "barbulescu, e"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "wednesday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "1.53"
+        ],
+        "instructors": [
+            "salah, y"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "wednesday",
+        "start": "16:30",
+        "end": "18:30",
+        "locations": [
+            "1.53"
+        ],
+        "instructors": [
+            "nadeem, n"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "friday",
+        "start": "08:30",
+        "end": "10:30",
+        "locations": [
+            "1.53"
+        ],
+        "instructors": [
+            "mohamed, a"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "friday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "1.53"
+        ],
+        "instructors": [
+            "salah, y"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "friday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "1.53"
+        ],
+        "instructors": [
+            "barbulescu, e"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "workshop",
+        "day": "monday",
+        "start": "15:30",
+        "end": "18:30",
+        "locations": [
+            "4.44"
+        ],
+        "instructors": [
+            "amir, s",
+            "asghar, u",
+            "saidarakath, t",
+            "yousuf, m"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "workshop",
+        "day": "wednesday",
+        "start": "08:30",
+        "end": "11:30",
+        "locations": [
+            "4.44"
+        ],
+        "instructors": [
+            "amir, s",
+            "asghar, u",
+            "saidarakath, t",
+            "yousuf, m"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "workshop",
+        "day": "friday",
+        "start": "09:30",
+        "end": "12:30",
+        "locations": [
+            "5.11"
+        ],
+        "instructors": [
+            "amir, s",
+            "asghar, u",
+            "hasan, a",
+            "saidarakath, t"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "monday",
+        "start": "13:30",
+        "end": "15:30",
+        "locations": [
+            "3.47"
+        ],
+        "instructors": [
+            "habiba, a"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "monday",
+        "start": "13:30",
+        "end": "15:30",
+        "locations": [
+            "1.52"
+        ],
+        "instructors": [
+            "barbulescu, e"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "wednesday",
+        "start": "16:30",
+        "end": "18:30",
+        "locations": [
+            "1.52"
+        ],
+        "instructors": [
+            "habiba, a"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "thursday",
+        "start": "12:30",
+        "end": "14:30",
+        "locations": [
+            "6.36"
+        ],
+        "instructors": [
+            "habiba, a"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "friday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "2.50"
+        ],
+        "instructors": [
+            "salah, y"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "monday",
+        "start": "08:30",
+        "end": "10:30",
+        "locations": [
+            "3.44"
+        ],
+        "instructors": [
+            "sikora, k"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "tuesday",
+        "start": "08:30",
+        "end": "10:30",
+        "locations": [
+            "4.44"
+        ],
+        "instructors": [
+            "sikora, k"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "workshop",
+        "day": "monday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "3.44"
+        ],
+        "instructors": [
+            "sikora, k"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "workshop",
+        "day": "monday",
+        "start": "11:30",
+        "end": "13:30",
+        "locations": [
+            "6.38"
+        ],
+        "instructors": [
+            "saidarakath, t"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "workshop",
+        "day": "tuesday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "5.18"
+        ],
+        "instructors": [
+            "alrifai, m"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "workshop",
+        "day": "tuesday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "5.17"
+        ],
+        "instructors": [
+            "saidarakath, t"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "workshop",
+        "day": "tuesday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "5.10"
+        ],
+        "instructors": [
+            "sahir, s"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "workshop",
+        "day": "tuesday",
+        "start": "12:30",
+        "end": "14:30",
+        "locations": [
+            "6.39"
+        ],
+        "instructors": [
+            "yousuf, m"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "workshop",
+        "day": "tuesday",
+        "start": "12:30",
+        "end": "14:30",
+        "locations": [
+            "5.18"
+        ],
+        "instructors": [
+            "alrifai, m"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "workshop",
+        "day": "tuesday",
+        "start": "12:30",
+        "end": "14:30",
+        "locations": [
+            "4.45"
+        ],
+        "instructors": [
+            "saidarakath, t"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "workshop",
+        "day": "tuesday",
+        "start": "15:30",
+        "end": "17:30",
+        "locations": [
+            "3.48"
+        ],
+        "instructors": [
+            "yousuf, m"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "workshop",
+        "day": "thursday",
+        "start": "08:30",
+        "end": "10:30",
+        "locations": [
+            "4.52"
+        ],
+        "instructors": [
+            "yousuf, m"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "monday",
+        "start": "16:30",
+        "end": "18:30",
+        "locations": [
+            "1.53"
+        ],
+        "instructors": []
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "tuesday",
+        "start": "08:30",
+        "end": "10:30",
+        "locations": [
+            "1.53"
+        ],
+        "instructors": [
+            "mohamed, a"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "thursday",
+        "start": "08:30",
+        "end": "10:30",
+        "locations": [
+            "1.53"
+        ],
+        "instructors": [
+            "mohamed, a"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "thursday",
+        "start": "12:30",
+        "end": "14:30",
+        "locations": [
+            "1.53"
+        ],
+        "instructors": [
+            "mohamed, a"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "thursday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "1.53"
+        ],
+        "instructors": []
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "friday",
+        "start": "16:30",
+        "end": "18:30",
+        "locations": [
+            "1.53"
+        ],
+        "instructors": []
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "friday",
+        "start": "08:30",
+        "end": "10:30",
+        "locations": [
+            "4.46",
+            "4.47"
+        ],
+        "instructors": [
+            "o'driscoll, c"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "monday",
+        "start": "08:30",
+        "end": "10:30",
+        "locations": [
+            "4.50"
+        ],
+        "instructors": [
+            "o'driscoll, c"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "monday",
+        "start": "11:30",
+        "end": "13:30",
+        "locations": [
+            "4.48"
+        ],
+        "instructors": [
+            "o'driscoll, c"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "tuesday",
+        "start": "08:30",
+        "end": "10:30",
+        "locations": [
+            "3.42"
+        ],
+        "instructors": [
+            "o'driscoll, c"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "thursday",
+        "start": "12:30",
+        "end": "14:30",
+        "locations": [
+            "5.18"
+        ],
+        "instructors": [
+            "alrifai, m"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "thursday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "5.11"
+        ],
+        "instructors": [
+            "rajamani, h",
+            "sikora, k"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "tuesday",
+        "start": "15:30",
+        "end": "17:30",
+        "locations": [
+            "3.47"
+        ],
+        "instructors": [
+            "gouda, h"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "monday",
+        "start": "12:30",
+        "end": "15:30",
+        "locations": [
+            "1.38"
+        ],
+        "instructors": [
+            "gouda, h"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "monday",
+        "start": "15:30",
+        "end": "17:30",
+        "locations": [
+            "1.38"
+        ],
+        "instructors": [
+            "gouda, h"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "tuesday",
+        "start": "12:30",
+        "end": "14:30",
+        "locations": [
+            "3.52"
+        ],
+        "instructors": [
+            "filho, c"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "tuesday",
+        "start": "16:30",
+        "end": "18:30",
+        "locations": [
+            "4.42"
+        ],
+        "instructors": [
+            "fernandes, s"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "wednesday",
+        "start": "12:30",
+        "end": "14:30",
+        "locations": [
+            "4.42"
+        ],
+        "instructors": [
+            "kapar, b"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "friday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "4.42"
+        ],
+        "instructors": [
+            "fernandes, s"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "friday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "4.42"
+        ],
+        "instructors": [
+            "fernandes, s"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "tuesday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "4.44"
+        ],
+        "instructors": [
+            "kapar, b"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "tuesday",
+        "start": "08:30",
+        "end": "10:30",
+        "locations": [
+            "6.34",
+            "6.35"
+        ],
+        "instructors": [
+            "ramiah, v"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "tuesday",
+        "start": "12:30",
+        "end": "14:30",
+        "locations": [
+            "5.13",
+            "5.14"
+        ],
+        "instructors": [
+            "ramiah, v"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "wednesday",
+        "start": "08:30",
+        "end": "10:30",
+        "locations": [
+            "3.42"
+        ],
+        "instructors": [
+            "filho, c"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "thursday",
+        "start": "08:30",
+        "end": "10:30",
+        "locations": [
+            "4.45"
+        ],
+        "instructors": [
+            "filho, c"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "wednesday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "4.46",
+            "4.47"
+        ],
+        "instructors": [
+            "rana, f"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "wednesday",
+        "start": "08:30",
+        "end": "10:30",
+        "locations": [
+            "4.52"
+        ],
+        "instructors": [
+            "tchantchane, n"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "wednesday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "4.52"
+        ],
+        "instructors": [
+            "tchantchane, n"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "wednesday",
+        "start": "12:30",
+        "end": "14:30",
+        "locations": [
+            "4.48"
+        ],
+        "instructors": [
+            "izza, f"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "friday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "5.11"
+        ],
+        "instructors": [
+            "khallouk, m"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "monday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "4.45"
+        ],
+        "instructors": [
+            "al-helo, s"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "wednesday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "3.48"
+        ],
+        "instructors": [
+            "al-helo, s"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "wednesday",
+        "start": "16:30",
+        "end": "18:30",
+        "locations": [
+            "5.18"
+        ],
+        "instructors": [
+            "khallouk, m"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "thursday",
+        "start": "08:30",
+        "end": "10:30",
+        "locations": [
+            "5.12"
+        ],
+        "instructors": [
+            "al-helo, s"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "tuesday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "0.17"
+        ],
+        "instructors": [
+            "ajala, i"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "wednesday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "0.17"
+        ],
+        "instructors": [
+            "ajala, i"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "wednesday",
+        "start": "11:30",
+        "end": "13:30",
+        "locations": [
+            "6.34",
+            "6.35"
+        ],
+        "instructors": [
+            "aboulfotouh, j"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "wednesday",
+        "start": "16:30",
+        "end": "18:30",
+        "locations": [
+            "3.46"
+        ],
+        "instructors": []
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "thursday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "5.13",
+            "5.14"
+        ],
+        "instructors": [
+            "aboulfotouh, j"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "thursday",
+        "start": "12:30",
+        "end": "14:30",
+        "locations": [
+            "5.12"
+        ],
+        "instructors": [
+            "aboulfotouh, j"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "thursday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "5.18"
+        ],
+        "instructors": [
+            "aboulfotouh, j"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "friday",
+        "start": "08:30",
+        "end": "10:30",
+        "locations": [
+            "3.46"
+        ],
+        "instructors": []
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "friday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "3.46"
+        ],
+        "instructors": []
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "friday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "3.42"
+        ],
+        "instructors": []
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "wednesday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "5.19"
+        ],
+        "instructors": [
+            "khan, z"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "wednesday",
+        "start": "12:30",
+        "end": "14:30",
+        "locations": [
+            "5.19"
+        ],
+        "instructors": [
+            "khan, z"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "thursday",
+        "start": "09:30",
+        "end": "11:30",
+        "locations": [
+            "6.39"
+        ],
+        "instructors": [
+            "khan, z"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "thursday",
+        "start": "12:30",
+        "end": "14:30",
+        "locations": [
+            "1.52"
+        ],
+        "instructors": [
+            "ullah, o"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "thursday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "2.50"
+        ],
+        "instructors": [
+            "nokiti, a"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "thursday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "1.52"
+        ],
+        "instructors": [
+            "ullah, o"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "thursday",
+        "start": "08:30",
+        "end": "10:30",
+        "locations": [
+            "3.44"
+        ],
+        "instructors": [
+            "mukala, p"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "monday",
+        "start": "10:30",
+        "end": "11:30",
+        "locations": [
+            "3.46"
+        ],
+        "instructors": [
+            "ullah, o"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "monday",
+        "start": "10:30",
+        "end": "11:30",
+        "locations": [
+            "5.10"
+        ],
+        "instructors": [
+            "nokiti, a"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "monday",
+        "start": "12:30",
+        "end": "13:30",
+        "locations": [
+            "5.17"
+        ],
+        "instructors": [
+            "ullah, o"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "monday",
+        "start": "08:30",
+        "end": "11:30",
+        "locations": [
+            "4.48"
+        ],
+        "instructors": [
+            "hysaj, a"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "monday",
+        "start": "10:30",
+        "end": "13:30",
+        "locations": [
+            "3.42"
+        ],
+        "instructors": [
+            "sabry, n"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "tuesday",
+        "start": "14:30",
+        "end": "17:30",
+        "locations": [
+            "5.19"
+        ],
+        "instructors": [
+            "sabry, n"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "wednesday",
+        "start": "14:30",
+        "end": "17:30",
+        "locations": [
+            "4.44"
+        ],
+        "instructors": [
+            "hysaj, a"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "monday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "5.19"
+        ],
+        "instructors": [
+            "adams, s"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "wednesday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "5.10"
+        ],
+        "instructors": [
+            "adams, s"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "monday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "3.48"
+        ],
+        "instructors": [
+            "hysaj, a"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "wednesday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "5.18"
+        ],
+        "instructors": [
+            "hysaj, a"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "monday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "5.12"
+        ],
+        "instructors": [
+            "sabry, n"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "wednesday",
+        "start": "16:30",
+        "end": "18:30",
+        "locations": [
+            "3.42"
+        ],
+        "instructors": [
+            "sabry, n"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "tuesday",
+        "start": "08:30",
+        "end": "10:30",
+        "locations": [
+            "0.17"
+        ],
+        "instructors": [
+            "abbas, r"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "tuesday",
+        "start": "12:30",
+        "end": "14:30",
+        "locations": [
+            "4.44"
+        ],
+        "instructors": [
+            "abbas, r"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "wednesday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "0.17"
+        ],
+        "instructors": [
+            "abbas, r"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "monday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "6.39"
+        ],
+        "instructors": [
+            "ali, m"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "monday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "5.17"
+        ],
+        "instructors": [
+            "abbas, r"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "monday",
+        "start": "13:30",
+        "end": "15:30",
+        "locations": [
+            "5.17"
+        ],
+        "instructors": [
+            "ali, m"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "tuesday",
+        "start": "12:30",
+        "end": "14:30",
+        "locations": [
+            "3.42"
+        ],
+        "instructors": [
+            "sharma, v"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "wednesday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "5.17"
+        ],
+        "instructors": []
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "thursday",
+        "start": "08:30",
+        "end": "10:30",
+        "locations": [
+            "5.10"
+        ],
+        "instructors": [
+            "baghestani, m"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "thursday",
+        "start": "08:30",
+        "end": "10:30",
+        "locations": [
+            "6.33"
+        ],
+        "instructors": [
+            "sharma, v"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "thursday",
+        "start": "08:30",
+        "end": "10:30",
+        "locations": [
+            "5.17"
+        ],
+        "instructors": [
+            "kulsoom, u"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "thursday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "5.12"
+        ],
+        "instructors": [
+            "kulsoom, u"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "thursday",
+        "start": "12:30",
+        "end": "14:30",
+        "locations": [
+            "5.13",
+            "5.14"
+        ],
+        "instructors": [
+            "ali, m"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "thursday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "5.13",
+            "5.14"
+        ],
+        "instructors": [
+            "ali, m"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "friday",
+        "start": "08:30",
+        "end": "10:30",
+        "locations": [
+            "5.12"
+        ],
+        "instructors": [
+            "kulsoom, u"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "friday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "5.12"
+        ],
+        "instructors": [
+            "kulsoom, u"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "friday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "5.12"
+        ],
+        "instructors": [
+            "baghestani, m"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "friday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "4.48"
+        ],
+        "instructors": []
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "friday",
+        "start": "16:30",
+        "end": "18:30",
+        "locations": [
+            "4.48"
+        ],
+        "instructors": []
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "tuesday",
+        "start": "08:30",
+        "end": "10:30",
+        "locations": [
+            "4.42"
+        ],
+        "instructors": [
+            "nyadzayo, m"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "wednesday",
+        "start": "08:30",
+        "end": "10:30",
+        "locations": [
+            "4.42"
+        ],
+        "instructors": [
+            "sharma, v"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "thursday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "6.40"
+        ],
+        "instructors": [
+            "sharma, v"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "monday",
+        "start": "12:30",
+        "end": "14:30",
+        "locations": [
+            "3.44"
+        ],
+        "instructors": [
+            "nyadzayo, m"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "wednesday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "5.13",
+            "5.14"
+        ],
+        "instructors": [
+            "dina, m"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "wednesday",
+        "start": "13:30",
+        "end": "15:30",
+        "locations": [
+            "6.28"
+        ],
+        "instructors": []
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "thursday",
+        "start": "08:30",
+        "end": "10:30",
+        "locations": [
+            "3.45"
+        ],
+        "instructors": [
+            "dina, m"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "thursday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "3.48"
+        ],
+        "instructors": []
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "tuesday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "6.34",
+            "6.35"
+        ],
+        "instructors": [
+            "bhattacharya, p"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "wednesday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "3.46"
+        ],
+        "instructors": []
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "thursday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "5.19"
+        ],
+        "instructors": []
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "thursday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "6.33"
+        ],
+        "instructors": []
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "friday",
+        "start": "08:30",
+        "end": "10:30",
+        "locations": [
+            "5.17"
+        ],
+        "instructors": []
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "friday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "5.17"
+        ],
+        "instructors": []
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "thursday",
+        "start": "12:30",
+        "end": "14:30",
+        "locations": [
+            "3.44"
+        ],
+        "instructors": [
+            "mukherjee, s"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "wednesday",
+        "start": "12:30",
+        "end": "14:30",
+        "locations": [
+            "5.10"
+        ],
+        "instructors": [
+            "azam, z"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "wednesday",
+        "start": "16:30",
+        "end": "18:30",
+        "locations": [
+            "3.48"
+        ],
+        "instructors": [
+            "azam, z"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "thursday",
+        "start": "08:30",
+        "end": "10:30",
+        "locations": [
+            "5.13",
+            "5.14"
+        ],
+        "instructors": [
+            "mukherjee, s"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "thursday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "6.28"
+        ],
+        "instructors": [
+            "azam, z"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "monday",
+        "start": "08:30",
+        "end": "10:30",
+        "locations": [
+            "4.44"
+        ],
+        "instructors": [
+            "dina, m"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "thursday",
+        "start": "08:30",
+        "end": "10:30",
+        "locations": [
+            "5.19"
+        ],
+        "instructors": []
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "thursday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "3.45"
+        ],
+        "instructors": [
+            "dina, m"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "friday",
+        "start": "08:30",
+        "end": "10:30",
+        "locations": [
+            "3.48"
+        ],
+        "instructors": []
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "friday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "5.10"
+        ],
+        "instructors": []
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "tuesday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "4.46",
+            "4.47"
+        ],
+        "instructors": [
+            "tajali, b"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "workshop",
+        "day": "friday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "3.42"
+        ],
+        "instructors": []
+    },
+    {
+        "id": 1,
+        "classtype": "workshop",
+        "day": "friday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "4.45"
+        ],
+        "instructors": []
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "monday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "6.34",
+            "6.35"
+        ],
+        "instructors": [
+            "abdelaziz, s"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "monday",
+        "start": "12:30",
+        "end": "14:30",
+        "locations": [
+            "0.17"
+        ],
+        "instructors": [
+            "tajali, b"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "monday",
+        "start": "12:30",
+        "end": "14:30",
+        "locations": [
+            "6.34",
+            "6.35"
+        ],
+        "instructors": [
+            "abdelaziz, s"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "tuesday",
+        "start": "08:30",
+        "end": "10:30",
+        "locations": [
+            "4.46",
+            "4.47"
+        ],
+        "instructors": [
+            "tajali, b"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "thursday",
+        "start": "12:30",
+        "end": "14:30",
+        "locations": [
+            "6.32"
+        ],
+        "instructors": [
+            "tajali, b"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "workshop",
+        "day": "monday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "6.40"
+        ],
+        "instructors": []
+    },
+    {
+        "id": 1,
+        "classtype": "workshop",
+        "day": "monday",
+        "start": "16:30",
+        "end": "18:30",
+        "locations": [
+            "6.40"
+        ],
+        "instructors": []
+    },
+    {
+        "id": 1,
+        "classtype": "workshop",
+        "day": "tuesday",
+        "start": "08:30",
+        "end": "10:30",
+        "locations": [
+            "2.50"
+        ],
+        "instructors": []
+    },
+    {
+        "id": 1,
+        "classtype": "workshop",
+        "day": "tuesday",
+        "start": "08:30",
+        "end": "10:30",
+        "locations": [
+            "6.40"
+        ],
+        "instructors": []
+    },
+    {
+        "id": 1,
+        "classtype": "workshop",
+        "day": "tuesday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "6.40"
+        ],
+        "instructors": []
+    },
+    {
+        "id": 1,
+        "classtype": "workshop",
+        "day": "tuesday",
+        "start": "12:30",
+        "end": "14:30",
+        "locations": [
+            "6.40"
+        ],
+        "instructors": []
+    },
+    {
+        "id": 1,
+        "classtype": "workshop",
+        "day": "tuesday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "6.40"
+        ],
+        "instructors": []
+    },
+    {
+        "id": 1,
+        "classtype": "workshop",
+        "day": "wednesday",
+        "start": "08:30",
+        "end": "10:30",
+        "locations": [
+            "2.50"
+        ],
+        "instructors": []
+    },
+    {
+        "id": 1,
+        "classtype": "workshop",
+        "day": "wednesday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "2.50"
+        ],
+        "instructors": []
+    },
+    {
+        "id": 1,
+        "classtype": "workshop",
+        "day": "wednesday",
+        "start": "11:30",
+        "end": "13:30",
+        "locations": [
+            "6.40"
+        ],
+        "instructors": []
+    },
+    {
+        "id": 1,
+        "classtype": "workshop",
+        "day": "wednesday",
+        "start": "13:30",
+        "end": "15:30",
+        "locations": [
+            "6.40"
+        ],
+        "instructors": []
+    },
+    {
+        "id": 1,
+        "classtype": "workshop",
+        "day": "thursday",
+        "start": "08:30",
+        "end": "10:30",
+        "locations": [
+            "2.50"
+        ],
+        "instructors": []
+    },
+    {
+        "id": 1,
+        "classtype": "workshop",
+        "day": "friday",
+        "start": "08:30",
+        "end": "10:30",
+        "locations": [
+            "2.50"
+        ],
+        "instructors": []
+    },
+    {
+        "id": 1,
+        "classtype": "workshop",
+        "day": "friday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "2.50"
+        ],
+        "instructors": []
+    },
+    {
+        "id": 1,
+        "classtype": "workshop",
+        "day": "friday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "6.40"
+        ],
+        "instructors": []
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "wednesday",
+        "start": "12:30",
+        "end": "14:30",
+        "locations": [
+            "4.44"
+        ],
+        "instructors": [
+            "khouly, a"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "workshop",
+        "day": "wednesday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "4.52"
+        ],
+        "instructors": [
+            "khouly, a"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "workshop",
+        "day": "wednesday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "5.13",
+            "5.14"
+        ],
+        "instructors": [
+            "abdelaziz, s"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "workshop",
+        "day": "friday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "6.38"
+        ],
+        "instructors": [
+            "abdelaziz, s"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "wednesday",
+        "start": "12:30",
+        "end": "14:30",
+        "locations": [
+            "4.46",
+            "4.47"
+        ],
+        "instructors": [
+            "lo, a."
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "thursday",
+        "start": "08:30",
+        "end": "10:30",
+        "locations": [
+            "4.46",
+            "4.47"
+        ],
+        "instructors": [
+            "lo, a."
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "wednesday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "3.44"
+        ],
+        "instructors": [
+            "malek, m"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "thursday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "4.46",
+            "4.47"
+        ],
+        "instructors": [
+            "malek, m"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "wednesday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "5.10"
+        ],
+        "instructors": [
+            "choucair, z"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "wednesday",
+        "start": "16:30",
+        "end": "18:30",
+        "locations": [
+            "5.10"
+        ],
+        "instructors": [
+            "choucair, z"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "wednesday",
+        "start": "16:30",
+        "end": "18:30",
+        "locations": [
+            "4.51"
+        ],
+        "instructors": [
+            "tajali, b"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "thursday",
+        "start": "12:30",
+        "end": "14:30",
+        "locations": [
+            "3.48"
+        ],
+        "instructors": [
+            "choucair, z"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "thursday",
+        "start": "12:30",
+        "end": "14:30",
+        "locations": [
+            "4.50"
+        ],
+        "instructors": [
+            "abdelaziz, s"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "thursday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "6.39"
+        ],
+        "instructors": [
+            "tajali, b"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "thursday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "4.50"
+        ],
+        "instructors": [
+            "abdelaziz, s"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "friday",
+        "start": "08:30",
+        "end": "10:30",
+        "locations": [
+            "6.38"
+        ],
+        "instructors": [
+            "abdelaziz, s"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "monday",
+        "start": "13:30",
+        "end": "15:30",
+        "locations": [
+            "6.33"
+        ],
+        "instructors": [
+            "klot, m"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "monday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "4.50"
+        ],
+        "instructors": [
+            "tchantchane, a"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "monday",
+        "start": "15:30",
+        "end": "17:30",
+        "locations": [
+            "6.33"
+        ],
+        "instructors": [
+            "klot, m"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "tuesday",
+        "start": "08:30",
+        "end": "10:30",
+        "locations": [
+            "5.18"
+        ],
+        "instructors": [
+            "khelalfa, h"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "tuesday",
+        "start": "13:30",
+        "end": "15:30",
+        "locations": [
+            "4.52"
+        ],
+        "instructors": [
+            "tchantchane, a"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "tuesday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "3.46"
+        ],
+        "instructors": [
+            "klot, m"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "tuesday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "4.50"
+        ],
+        "instructors": [
+            "khelalfa, h"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "wednesday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "6.38"
+        ],
+        "instructors": [
+            "majeed, s"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "wednesday",
+        "start": "12:30",
+        "end": "14:30",
+        "locations": [
+            "3.46"
+        ],
+        "instructors": [
+            "khelalfa, h"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "wednesday",
+        "start": "13:30",
+        "end": "15:30",
+        "locations": [
+            "3.45"
+        ],
+        "instructors": [
+            "tchantchane, a"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "wednesday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "3.42"
+        ],
+        "instructors": [
+            "khelalfa, h"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "wednesday",
+        "start": "15:30",
+        "end": "17:30",
+        "locations": [
+            "3.45"
+        ],
+        "instructors": [
+            "tchantchane, a"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "thursday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "3.46"
+        ],
+        "instructors": [
+            "aswani, p"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "friday",
+        "start": "08:30",
+        "end": "10:30",
+        "locations": [
+            "5.10"
+        ],
+        "instructors": [
+            "khelalfa, h"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "friday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "5.10"
+        ],
+        "instructors": [
+            "khelalfa, h"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "monday",
+        "start": "08:30",
+        "end": "10:30",
+        "locations": [
+            "0.17"
+        ],
+        "instructors": [
+            "tchantchane, a"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "monday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "0.17"
+        ],
+        "instructors": [
+            "tchantchane, a"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "monday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "0.17"
+        ],
+        "instructors": [
+            "khelalfa, h"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "tuesday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "0.17"
+        ],
+        "instructors": [
+            "tchantchane, a"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "wednesday",
+        "start": "08:30",
+        "end": "10:30",
+        "locations": [
+            "0.17"
+        ],
+        "instructors": [
+            "khelalfa, h"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "thursday",
+        "start": "12:30",
+        "end": "14:30",
+        "locations": [
+            "0.17"
+        ],
+        "instructors": [
+            "tchantchane, a"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "tuesday",
+        "start": "15:30",
+        "end": "17:30",
+        "locations": [
+            "4.46",
+            "4.47"
+        ],
+        "instructors": [
+            "lo, a."
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "wednesday",
+        "start": "08:30",
+        "end": "10:30",
+        "locations": [
+            "4.46",
+            "4.47"
+        ],
+        "instructors": [
+            "lo, a."
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "monday",
+        "start": "09:30",
+        "end": "11:30",
+        "locations": [
+            "4.45"
+        ],
+        "instructors": [
+            "choucair, z"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "monday",
+        "start": "11:30",
+        "end": "13:30",
+        "locations": [
+            "4.45"
+        ],
+        "instructors": [
+            "choucair, z"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "wednesday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "5.17"
+        ],
+        "instructors": []
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "thursday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "3.48"
+        ],
+        "instructors": [
+            "choucair, z"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "thursday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "4.50"
+        ],
+        "instructors": []
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "thursday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "3.45"
+        ],
+        "instructors": [
+            "choucair, z"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "thursday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "6.32"
+        ],
+        "instructors": []
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "thursday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "1.48"
+        ],
+        "instructors": [
+            "hasan, a"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "monday",
+        "start": "13:30",
+        "end": "16:30",
+        "locations": [
+            "6.29"
+        ],
+        "instructors": [
+            "o'driscoll, c"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "thursday",
+        "start": "11:30",
+        "end": "13:30",
+        "locations": [
+            "1.48"
+        ],
+        "instructors": [
+            "hasan, a"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "wednesday",
+        "start": "12:30",
+        "end": "14:30",
+        "locations": [
+            "1.47"
+        ],
+        "instructors": [
+            "yousuf, m"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "monday",
+        "start": "08:30",
+        "end": "11:30",
+        "locations": [
+            "1.47"
+        ],
+        "instructors": [
+            "chacha, m"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "wednesday",
+        "start": "09:30",
+        "end": "11:30",
+        "locations": [
+            "1.47"
+        ],
+        "instructors": [
+            "chacha, m"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "tuesday",
+        "start": "12:30",
+        "end": "14:30",
+        "locations": [
+            "1.49"
+        ],
+        "instructors": [
+            "asghar, u"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lab",
+        "day": "tuesday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "1.49"
+        ],
+        "instructors": [
+            "asghar, u"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "tuesday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "4.48"
+        ],
+        "instructors": [
+            "asghar, u"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "thursday",
+        "start": "18:00",
+        "end": "22:00",
+        "locations": [
+            "5.12"
+        ],
+        "instructors": []
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "tuesday",
+        "start": "12:30",
+        "end": "14:30",
+        "locations": [
+            "2.51"
+        ],
+        "instructors": []
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "tuesday",
+        "start": "16:30",
+        "end": "18:30",
+        "locations": [
+            "0.17"
+        ],
+        "instructors": [
+            "taylor, g"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "thursday",
+        "start": "08:30",
+        "end": "10:30",
+        "locations": [
+            "0.17"
+        ],
+        "instructors": [
+            "taylor, g"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "monday",
+        "start": "08:30",
+        "end": "10:30",
+        "locations": [
+            "3.46"
+        ],
+        "instructors": [
+            "latif, m"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "monday",
+        "start": "08:30",
+        "end": "10:30",
+        "locations": [
+            "6.33"
+        ],
+        "instructors": [
+            "moeen, a"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "monday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "6.33"
+        ],
+        "instructors": [
+            "moeen, a"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "monday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "4.52"
+        ],
+        "instructors": [
+            "khurshid, s."
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "tuesday",
+        "start": "08:30",
+        "end": "10:30",
+        "locations": [
+            "4.45"
+        ],
+        "instructors": [
+            "khurshid, s."
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "wednesday",
+        "start": "08:30",
+        "end": "10:30",
+        "locations": [
+            "3.48"
+        ],
+        "instructors": [
+            "moeen, a"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "wednesday",
+        "start": "08:30",
+        "end": "10:30",
+        "locations": [
+            "5.12"
+        ],
+        "instructors": [
+            "latif, m"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "wednesday",
+        "start": "09:30",
+        "end": "11:30",
+        "locations": [
+            "3.45"
+        ],
+        "instructors": [
+            "khurshid, s."
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "thursday",
+        "start": "12:30",
+        "end": "14:30",
+        "locations": [
+            "6.33"
+        ],
+        "instructors": [
+            "latif, m"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "thursday",
+        "start": "13:30",
+        "end": "15:30",
+        "locations": [
+            "4.48"
+        ],
+        "instructors": [
+            "khurshid, s."
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "thursday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "6.33"
+        ],
+        "instructors": [
+            "latif, m"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "monday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "5.18"
+        ],
+        "instructors": [
+            "thirlwall, a"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "monday",
+        "start": "13:30",
+        "end": "15:30",
+        "locations": [
+            "6.38"
+        ],
+        "instructors": [
+            "thirlwall, a"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "tuesday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "3.44"
+        ],
+        "instructors": [
+            "cho, j"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "tuesday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "4.45"
+        ],
+        "instructors": [
+            "khurshid, s."
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "tuesday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "6.33"
+        ],
+        "instructors": [
+            "al-helo, s"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "tuesday",
+        "start": "12:30",
+        "end": "14:30",
+        "locations": [
+            "3.48"
+        ],
+        "instructors": [
+            "cho, j"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "tuesday",
+        "start": "12:30",
+        "end": "14:30",
+        "locations": [
+            "6.33"
+        ],
+        "instructors": [
+            "al-helo, s"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "thursday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "4.46",
+            "4.47"
+        ],
+        "instructors": [
+            "datta, s"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "friday",
+        "start": "08:30",
+        "end": "10:30",
+        "locations": [
+            "4.48"
+        ],
+        "instructors": []
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "friday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "3.48"
+        ],
+        "instructors": [
+            "datta, s"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "friday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "4.48"
+        ],
+        "instructors": []
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "thursday",
+        "start": "09:30",
+        "end": "11:30",
+        "locations": [
+            "4.48"
+        ],
+        "instructors": [
+            "mumtaz, s"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "thursday",
+        "start": "11:30",
+        "end": "13:30",
+        "locations": [
+            "4.48"
+        ],
+        "instructors": [
+            "mumtaz, s"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "monday",
+        "start": "08:30",
+        "end": "10:30",
+        "locations": [
+            "6.38"
+        ],
+        "instructors": [
+            "bandara, r"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "tuesday",
+        "start": "08:30",
+        "end": "10:30",
+        "locations": [
+            "5.12"
+        ],
+        "instructors": [
+            "moeen, a"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "saturday",
+        "start": "12:00",
+        "end": "15:00",
+        "locations": [
+            "3.48"
+        ],
+        "instructors": [
+            "hatahet, s"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "saturday",
+        "start": "08:30",
+        "end": "11:30",
+        "locations": [
+            "3.48"
+        ],
+        "instructors": [
+            "hatahet, s"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "sunday",
+        "start": "08:30",
+        "end": "11:30",
+        "locations": [
+            "3.42"
+        ],
+        "instructors": [
+            "chapman, y"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "monday",
+        "start": "08:30",
+        "end": "10:30",
+        "locations": [
+            "5.13",
+            "5.14"
+        ],
+        "instructors": [
+            "gouda, h"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "tuesday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "5.13",
+            "5.14"
+        ],
+        "instructors": [
+            "gouda, h"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "workshop",
+        "day": "monday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "3.53"
+        ],
+        "instructors": [
+            "sahir, s"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "workshop",
+        "day": "monday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "3.53"
+        ],
+        "instructors": [
+            "nadeem, n"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "workshop",
+        "day": "monday",
+        "start": "16:30",
+        "end": "18:30",
+        "locations": [
+            "3.53"
+        ],
+        "instructors": [
+            "singh, a"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "workshop",
+        "day": "tuesday",
+        "start": "12:30",
+        "end": "14:30",
+        "locations": [
+            "3.53"
+        ],
+        "instructors": [
+            "george, m"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "workshop",
+        "day": "tuesday",
+        "start": "16:30",
+        "end": "18:30",
+        "locations": [
+            "3.53"
+        ],
+        "instructors": [
+            "sahir, s"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "workshop",
+        "day": "wednesday",
+        "start": "08:30",
+        "end": "10:30",
+        "locations": [
+            "3.53"
+        ],
+        "instructors": [
+            "singh, a"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "workshop",
+        "day": "wednesday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "3.53"
+        ],
+        "instructors": [
+            "barbulescu, e"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "workshop",
+        "day": "thursday",
+        "start": "08:30",
+        "end": "10:30",
+        "locations": [
+            "3.53"
+        ],
+        "instructors": [
+            "barbulescu, e"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "workshop",
+        "day": "thursday",
+        "start": "12:30",
+        "end": "14:30",
+        "locations": [
+            "3.53"
+        ],
+        "instructors": [
+            "george, m"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "workshop",
+        "day": "thursday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "3.53"
+        ],
+        "instructors": [
+            "nadeem, n"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "thursday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "0.17"
+        ],
+        "instructors": [
+            "khan, a"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "monday",
+        "start": "08:30",
+        "end": "10:30",
+        "locations": [
+            "5.18"
+        ],
+        "instructors": [
+            "khan, a"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "tuesday",
+        "start": "08:30",
+        "end": "10:30",
+        "locations": [
+            "5.19"
+        ],
+        "instructors": [
+            "khan, a"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "tuesday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "5.19"
+        ],
+        "instructors": [
+            "khan, a"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "wednesday",
+        "start": "08:30",
+        "end": "10:30",
+        "locations": [
+            "3.46"
+        ],
+        "instructors": [
+            "khan, a"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "wednesday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "3.46"
+        ],
+        "instructors": [
+            "khan, a"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "wednesday",
+        "start": "13:30",
+        "end": "15:30",
+        "locations": [
+            "6.30"
+        ],
+        "instructors": [
+            "khan, a"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "thursday",
+        "start": "08:30",
+        "end": "10:30",
+        "locations": [
+            "5.18"
+        ],
+        "instructors": [
+            "khan, a"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "thursday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "5.18"
+        ],
+        "instructors": [
+            "khan, a"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "tuesday",
+        "start": "08:30",
+        "end": "10:30",
+        "locations": [
+            "5.15"
+        ],
+        "instructors": [
+            "trenkov, l"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "tuesday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "5.15"
+        ],
+        "instructors": [
+            "trenkov, l"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "wednesday",
+        "start": "08:30",
+        "end": "10:30",
+        "locations": [
+            "5.15"
+        ],
+        "instructors": [
+            "trenkov, l"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "wednesday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "5.15"
+        ],
+        "instructors": [
+            "sobeih, s"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "thursday",
+        "start": "08:30",
+        "end": "10:30",
+        "locations": [
+            "5.15"
+        ],
+        "instructors": [
+            "sobeih, s"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "thursday",
+        "start": "10:30",
+        "end": "12:30",
+        "locations": [
+            "5.15"
+        ],
+        "instructors": [
+            "sobeih, s"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "lecture",
+        "day": "monday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "5.15"
+        ],
+        "instructors": [
+            "trenkov, l"
+        ]
+    },
+    {
+        "id": 1,
+        "classtype": "tutorial",
+        "day": "tuesday",
+        "start": "14:30",
+        "end": "16:30",
+        "locations": [
+            "5.15"
+        ],
+        "instructors": []
+    }
+]
