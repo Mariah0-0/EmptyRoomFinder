@@ -1,146 +1,74 @@
-# Importing required libraries
-from pypdf import PdfReader
+import os
+import json
 from datetime import datetime
 
-# Global Variables
-classtypes = ["lecture", "lab", "tutorial", "workshop"]
 classes = []
-idcounter = 0
 allLocations = set()
+allTTS = []
+change = True
 
+def read_json(path):
+    data = []
+    with open(path, "r") as tt:
+        data = json.load(tt)
+    for c in data:
+        c['start'] = datetime.strptime(c['start'], '%H:%M')
+        c['end'] = datetime.strptime(c['end'], '%H:%M')
+        classes.append(c)
+    
+def get_latest_timetable():
+    trimesters = ['winter', 'spring', 'autumn']
+    isTT = False
+    fileFound = False
+    trimester = ''
+    year = ''
+    files = os.listdir('./converted_timetables')
+    max = {'year': '0', 'trimester': 'winter', 'path': ''}
+    
+    for file in files:
+        if len(file) < 15 or not file.endswith('.json'):
+            continue
+        
+        # Extract year
+        for i in range(len(file) - 3):
+            if file[i] == '2' and file[i+1] == '0' and file[i+2].isdigit() and file[i+3].isdigit():
+                year = file[i:i+4]
+                isTT = True
+                break
+        if not isTT:
+            continue
+        isTT = False
+        
+        # Extract trimester
+        for t in trimesters:
+            if t in file.lower():
+                isTT = True
+                trimester = t
+                break
+        if not isTT:
+            continue
+        
+        fileFound = True
+        allTTS.append({'year' : year, 'trimester' : trimester, 'path' : os.path.join('./converted_timetables', file)})
 
-# Helper Functions
-def isClasstype(classtype):
-    """Check if the given classtype is valid."""
-    return classtype in classtypes
-
-
-def isDay(day):
-    """Check if the given string is a valid weekday."""
-    return day in ["monday", "tuesday", "wednesday", "thursday", "friday", "saturday", "sunday"]
-
-
-def parse_page_text(page_text):
-    """Extract relevant lines from a page's text."""
-    allLines = page_text.splitlines()
-    lines = []
-
-    for i in range(len(allLines)):
-        firstWord = allLines[i].split()[0]
-        if firstWord in ["Lecture", "Computer", "Tutorial", "Workshop"]:
-            lines.append(allLines[i])
-        elif firstWord in ["AND", "OR"]:
-            lines.append(allLines[i][3:])
-
-    return lines
-
-
-def process_line(linestr):
-    """Process a single line to extract class details."""
-    global idcounter
-
-    classtype = ''
-    day = ''
-    start = ''
-    end = ''
-    location = []
-    instructor = []
-    words = linestr.lower().replace(')', ' ').replace('\\', ' ').replace(';', ' ').split()
-
-    # Identify day and classtype
-    for word in words:
-        words = words[1:]
-        if isDay(word):
-            day = word
-            break
-        if isClasstype(word):
-            classtype = word
-
-    if day == '':
-        print("day not found")
-        raise ValueError("Missing day")
-
-    if classtype == '':
-        print("classtype not found")
-        raise ValueError("Missing classtype")
-
-    # Identify start and end times
-    start_i = end_i = 0
-    for i in range(len(words)):
-        if words[i] == '-':
-            start_i = i - 1
-            end_i = i + 1
-            break
-
-    if len(words[start_i]) != 5:
-        end = words[start_i][:4]
-        words[start_i] = words[start_i][4:]
-    else:
-        start = words[start_i]
-
-    if len(words[end_i]) != 5:
-        end = words[end_i][:5]
-        words[end_i] = words[end_i][5:]
-        words.insert(end_i, end)
-    else:
-        end = words[end_i]
-
-    start = datetime.strptime(start, '%H:%M')
-    end = datetime.strptime(end, '%H:%M')
-
-    # Extract location
-    words = words[3:]
-    if not words[0][0].isdigit():
-        return
-
-    if words[0][4] == '-':
-        location.append(words[0][0:4])
-    else:
-        loc = words[0][0:5]
-        location = [loc[0:4], loc[0:3] + loc[4]]
-
-    # Extract instructors
-    words = words[1:]
-    for i in range(len(words)):
-        if words[i][-1] == ',':
-            try:
-                instructor.append(words[i] + ' ' + words[i + 1])
-            except IndexError:
-                pass
-
-    idcounter += 1
-    classes.append({
-        'id': idcounter,
-        'classtype': classtype,
-        'day': day,
-        'start': start,
-        'end': end,
-        'locations': location,
-        'instructors': instructor
-    })
-
-
-def load_classes(file_path):
-    """Parse all pages from the timetable PDF and extract classes."""
-    reader = PdfReader(file_path)
-
-    for pageno in range(len(reader.pages)):
-        page = reader.pages[pageno]
-        lines = parse_page_text(page.extract_text())
-
-        for linestr in lines:
-            try:
-                process_line(linestr)
-            except ValueError:
-                print("ur wrong")
-                return
+        if (year > max['year']) or (year == max['year'] and trimesters.index(trimester) > trimesters.index(max['trimester'])):
+            max['year'] = year
+            max['trimester'] = trimester
+            max['path'] = os.path.join('./converted_timetables', file)
+    
+    if not fileFound:
+        print("cant find file :(")
+        exit()
+    
+    return max
 
 
 def initialize_locations():
     """Extract all unique locations from classes."""
+    notLocs = ['3.50', '3.51', '3.53', '3.55', '4.49', '4.53', '4.54', '6.28', '6.29', '6.30']
     for c in classes:
         for loc in c['locations']:
-            if loc[0] in ['0', '1'] or loc in ['5.12', '6.29', '3.53', '6.30', '5.17', '6.28']:
+            if loc[0] in ['0', '1'] or loc in notLocs:
                 continue
             allLocations.add(loc)
 
@@ -162,42 +90,80 @@ def Available(day, time):
             print("\033[38;2;117;195;255m" + i + "\033[0m")
 
 
-# Main Code Execution
-load_classes("timetable.pdf")
-initialize_locations()
-
-# Current availability
-print("\033[38;2;255;148;234m\nrooms available rn:\033[0m")
-Available(datetime.now().strftime("%A").lower(), datetime.now().replace(year=1900, month=1, day=1))
-
-# User interaction loop
-again = True
-while again:
-    print("\033[38;2;255;206;107m\nsay 'no' if no\033[0m")
-
-    while again:
-        day = input("\033[38;2;255;148;234m\nWhich day? \033[0m").lower()
-        if day.lower() == 'no':
-            again = False
+def setTimetable():
+    files = os.listdir('./converted_timetables')
+    
+    print()
+    for i in range(len(files)):
+        print("\033[38;2;117;195;255m" + str(i+1) + ". " + files[i][:-5] + "\033[0m")
+    
+    while True:
+        choice = input("\033[38;2;255;148;234m\nWhich one? \033[0m").lower()
+        if choice.isdigit() and 1 <= int(choice) <= len(files):
             break
-        if not isDay(day):
+        elif choice == 'no':
+            print("\033[38;2;255;206;107m\nok bye\n\033[0m")
+            exit()
+            break
+        else:
             print("\nno")
-            continue
-        break
+    
+    return {'path': os.path.join("./converted_timetables", files[int(choice)-1])}
 
-    while again:
-        time = input("\033[38;2;255;148;234m\nWhen (HH:MM) (24h) ? \033[0m")
-        if time.lower() == 'no':
-            again = False
-            break
-        try:
-            time = datetime.strptime(time, '%H:%M')
-            break
-        except ValueError:
-            print("\nno")
 
-    if not again:
-        print("\033[38;2;255;206;107m\nok bye\n\033[0m")
-        break
+def main():
+    global change
+    setTT = False
+    while change:
+        change = False
+        tt = setTT if setTT else get_latest_timetable()
+        
+        read_json(tt['path'])
+        initialize_locations()
 
-    Available(day, time)
+        # Current availability
+        print("\033[38;2;255;148;234m\nrooms available rn:\033[0m")
+        Available(datetime.now().strftime("%A").lower(), datetime.now().replace(year=1900, month=1, day=1))
+
+        # User interaction loop
+        again = True
+        while again:
+            print("\033[38;2;255;206;107m\nsay 'change' if change tt\033[0m")
+            print("\033[38;2;255;206;107msay 'no' if no\033[0m")
+
+            # Input day
+            while again:
+                day = input("\033[38;2;255;148;234m\nWhich day? \033[0m").lower()
+                if day in ['no', 'change']:
+                    again, change = False, (day == 'change')
+                    setTT = setTimetable() if change else None
+                    break
+                if day not in ["monday", "tuesday", "wednesday", "thursday", "friday", "saturday", "sunday"]:
+                    print("\nno")
+                else:
+                    break
+
+            # Input time
+            while again:
+                time = input("\033[38;2;255;148;234m\nWhen (HH:MM) (24h) ? \033[0m")
+                if time.lower() in ['no', 'change']:
+                    again, change = False, (time.lower() == 'change')
+                    setTT = setTimetable() if change else None
+                    break
+                try:
+                    time = datetime.strptime(time, '%H:%M')
+                    break
+                except ValueError:
+                    print("\nno")
+            
+            # Exit or process availability
+            if not again and not change:
+                print("\033[38;2;255;206;107m\nok bye\n\033[0m")
+                break
+            elif change:
+                break
+
+            Available(day, time)
+
+
+main()
